@@ -9,7 +9,7 @@
 ### Hi there! 👋
 
 Working on:
-- see my projects that i am working on [here](https://github.com/Guga-innecco/dev-preview) 😅 
+- see the projects that i am working on [here](https://github.com/Guga-innecco/dev-preview) 😅 
 
 ## Programming stats
 Favorite Language: `C`
