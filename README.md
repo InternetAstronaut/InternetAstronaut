@@ -28,19 +28,6 @@ C Stuff:
 
 Code Editor: GNU Nano
 
-A Snippet of C code (i am a beginner)
-> i call it argumentsLeaker
-```c
-#include <stdio.h>
-int main(int argc, const char *argv) {
-   int i;
-   for ( i = 0; i < argc; i++ ) {
-      printf("Argument %i: %s", i, argv[i]);
-   }
-   return 0;
-}
-```
-
 ## ~Computer~ Laptop stats
 OS: ChromeOS on crostini
 > crostini is just linux emulation for ChromeOS
