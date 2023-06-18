@@ -7,9 +7,7 @@
               |___/                                       
 ```
 ### Hi there! 👋
-
-Working on:
-- see the projects that i am working on [here](https://github.com/Guga-innecco/dev-preview) 😅 
+to see the projects that i am working, go [here](https://github.com/Guga-innecco/dev-preview) 😅 
 
 ## Programming stats
 Favorite Language: `C`
@@ -24,7 +22,7 @@ C Stuff:
    
    Favorite C data type: `char`
 
-Code Editor: ~GNU Nano~ Visual Studio Code
+Code Editor: Visual Studio Code
 
 ## ~Computer~ Laptop stats
 OS: ChromeOS on crostini
