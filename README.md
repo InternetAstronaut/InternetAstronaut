@@ -1,4 +1,3 @@
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 ### Hi there! 👋
 to see the projects that i am working, go [here](https://github.com/Guga-innecco/dev-preview) 😅 
 
@@ -75,4 +74,3 @@ Can Virtualize: Yes
 CPU Clock: Not the actual clock (99% chance)
 Flags: WHAAAAAT?
 ```
-@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
