@@ -26,6 +26,8 @@ C Stuff:
    
    Favorite C data type: `char`
 
+Code Editor: GNU Nano
+
 A Snippet of C code (i am a beginner)
 > i call it argumentsLeaker
 ```c
