@@ -9,9 +9,7 @@
 ### Hi there! 👋
 
 Working on:
-- nothing right now... 🙁
-
-> to see my projects which are not on github (developer-preview and unbuilded), click here at [my public folder](https://drive.google.com/drive/folders/1NBnoZ8tdV8V-T8RoHwkofXemeOz59b-G?usp=sharing)
+- see my projects that i am working on [here](https://github.com/Guga-innecco/dev-preview) 😅 
 
 ## Programming stats
 Favorite Language: `C`
@@ -26,7 +24,7 @@ C Stuff:
    
    Favorite C data type: `char`
 
-Code Editor: GNU Nano
+Code Editor: ~GNU Nano~ Visual Studio Code
 
 ## ~Computer~ Laptop stats
 OS: ChromeOS on crostini
