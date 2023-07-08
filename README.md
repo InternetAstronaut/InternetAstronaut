@@ -1,18 +1,7 @@
 ### Hi there! 👋
-to see the projects that i am working, go [here](https://github.com/Guga-innecco/dev-preview) 😅 
+to see the projects that i am working, go [here](https://github.com/Guga-innecco/dev-preview), or [here (CodePen)](https://codepen.io/noobpen) 😅 
 
 ## Programming stats
-Favorite Language: `C`
-
-C Stuff:
-
-   Compiler: `GCC`
-   
-   Building Tool: `make`
-   
-   Favorite C lib: `<stdio.h>`
-   
-   Favorite C data type: `char`
 
 Code Editor: Visual Studio Code
 
