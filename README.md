@@ -1,4 +1,11 @@
 ### Hi there! 👋
+
+> **Note**
+> 
+> I am moving into Codeberg, because it's open source
+> 
+> [Noob On Codeberg](https://codeberg.org/noobpen)
+
 to see the projects that i am working, go [here](https://github.com/Guga-innecco/dev-preview), or [here (CodePen)](https://codepen.io/noobpen) 😅 
 
 ## Programming stats
